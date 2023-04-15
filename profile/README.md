@@ -1,1 +1,1 @@
-<img src="logo.png" alt="SocketBridge">
+<img src="./logo.png" alt="SocketBridge">
